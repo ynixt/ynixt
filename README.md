@@ -9,7 +9,7 @@ Right now I'm working in two projects:
  - A game in Unity that I plan to market on Steam.
 
 
-You can contact me through my [LinkedIn](https://www.linkedin.com/in/ynixt/).
+🌟 You can contact me through my [LinkedIn](https://www.linkedin.com/in/ynixt/) 🌟
 
 
 ##### ⚡ Some of my skills ⚡:
