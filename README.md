@@ -14,10 +14,10 @@ Right now I'm working in two projects:
 
 ##### ⚡ Some of my skills ⚡:
 
+- Spring
 - Angular
 - Flutter
 - Unity
 - SQL Server
-- Spring
 - NestJS
 - Gamming (kidding i'm horrible)
