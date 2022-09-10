@@ -5,7 +5,6 @@ I'm a **developer with dreams** and one of the founders of **[UnkApps](https://g
 
 
 Right now I'm working in two projects:
- - [Shared Finances](https://github.com/ynixt/shared-finances): A site for controlling individual or shared finances. It uses Angular and NestJS;
  - A game in Unity that I plan to market on Steam.
 
 
