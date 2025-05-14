@@ -1,10 +1,7 @@
 ### Welcome 👋
 
 
-I'm a **developer with dreams** and one of the founders of **[UnkApps](https://github.com/unkapps)**, an incubator for personal projects, like [Uai Mangás](https://github.com/unkapps/uai-mangas). You can see another projects on our [website](https://unkapps.com).
-
-
-Right now I'm working in a game made with Electron.
+I'm just a **developer with dreams**.
 
 
 ##### 🌟 You can contact me through my [LinkedIn](https://www.linkedin.com/in/ynixt/) 🌟
@@ -16,6 +13,4 @@ Right now I'm working in a game made with Electron.
 - Angular
 - Flutter
 - Unity
-- SQL Server
-- NestJS
 - Gamming (kidding i'm horrible)
